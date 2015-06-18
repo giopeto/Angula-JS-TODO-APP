@@ -1,0 +1,21 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 1% !important;
+}
+.container-fluid {
+  margin-right: 4%;
+  margin-left: 4%;*
+}
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
+li {
+  list-style-type:none;
+}
+#required{
+  color:red;
+}
